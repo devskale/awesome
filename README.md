@@ -6,8 +6,9 @@ collection of prompt examples and prompting techniques for AI
 
 ## Prompt Examples
 
-- Plinius System Prompts [1](https://github.com/elder-plinius/CL4R1T4S)
-- UI Prompt Explorer [1](https://uiprompt.art/)
+- [Repo Promptlib](./promptlib)
+- [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts
+- [UI Prompt Explorer](https://uiprompt.art/)
 
 ## AI Creator Apps
 
@@ -21,8 +22,21 @@ collection of prompt examples and prompting techniques for AI
 - [Base44](https://base44.com/)
 - [Creatr](https://getcreatr.com/)
 
-## Rules, Cursor Rules
+## Cursor Rules
 
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo
+- [cursor.directory](https://cursor.directory/) - explore and generate rules
+- [hub.continue.dev](https://hub.continue.dev/explore/rules)
+- [traerules.net](https://traerules.net/) - [github](https://github.com/traerules)
+- [traerules.io](https://traerules.io/)
+- [playbooks.com](https://playbooks.com/rules/builder) - Build your own rules
+- [cursor.directory](https://cursor.directory/)
+- [Inbox Zeros Cursor Rules](https://github.com/elie222/inbox-zero/tree/main/.cursor/rules)
+- [dotcursorrules](https://dotcursorrules.com/)
 
 ## MCP Servers
+
+- [Github MCP](https://github.com/apappascs/mcp-servers-hub) Github Repo with MCP Servers Hub List
+- [mcpmarket.com](https://mcpmarket.com/server/hub)
+- [hub.continue.dev](https://hub.continue.dev/explore/mcp)
+- [mpc.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
