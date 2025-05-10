@@ -9,14 +9,20 @@ collection of prompt examples and prompting techniques for AI
 - Plinius System Prompts [1](https://github.com/elder-plinius/CL4R1T4S)
 - UI Prompt Explorer [1](https://uiprompt.art/)
 
-## Creator Apps
+## AI Creator Apps
 
-- Magic Patterns [¹](https://www.magicpatterns.com/)
-- Lovable [¹](https://lovable.dev/)
-- v0 [¹](https://v0.dev/)
-- DeepSite [¹](https://huggingface.co/spaces/enzostvs/deepsite)
-- Replit [¹](https://replit.com/)
-- IDX by Google [¹](https://idx.google.com/templates)
-- Bolt [¹](https://bolt.new)
-- Base44 [¹](https://base44.com/)
-- Creatr [¹](https://getcreatr.com/)
+- [Magic Patterns](https://www.magicpatterns.com/)
+- [Lovable](https://lovable.dev/)
+- [v0](https://v0.dev/)
+- [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite)
+- [Replit](https://replit.com/)
+- [IDX](https://idx.google.com/templates) - by Google
+- [Bolt](https://bolt.new)
+- [Base44](https://base44.com/)
+- [Creatr](https://getcreatr.com/)
+
+## Rules, Cursor Rules
+
+- [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo
+
+## MCP Servers
