@@ -21,6 +21,7 @@ collection of prompt examples and prompting techniques for AI
 - [Bolt](https://bolt.new)
 - [Base44](https://base44.com/)
 - [Creatr](https://getcreatr.com/)
+- [jDoodle](https://www.jdoodle.ai/)
 
 ## Cursor Rules
 
