@@ -9,6 +9,7 @@ collection of prompt examples and prompting techniques for AI
 - [Repo Promptlib](./promptlib)
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts
 - [UI Prompt Explorer](https://uiprompt.art/)
+- [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaks)
 
 ## AI Creator Apps
 
