@@ -23,6 +23,7 @@ collection of prompt examples and prompting techniques for AI
 - [Base44](https://base44.com/)
 - [Creatr](https://getcreatr.com/)
 - [jDoodle](https://www.jdoodle.ai/)
+- [Tempo](https://www.tempo.new/)
 
 ## Cursor Rules
 
@@ -36,6 +37,8 @@ collection of prompt examples and prompting techniques for AI
 - [Inbox Zeros Cursor Rules](https://github.com/elie222/inbox-zero/tree/main/.cursor/rules)
 - [dotcursorrules](https://dotcursorrules.com/)
 - [codeguide.dev](https://www.codeguide.dev/)
+- [promptstack.dev](https://promptstack.dev/)
+- [10xrules](https://10xrules.ai/)
 
 ## MCP Servers
 
