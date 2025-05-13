@@ -1,4 +1,4 @@
-<img src="https://skale.dev/wp-content/uploads/2024/10/skalelogo_grey_trans-300x150.png" alt="Skale.dev Logo">
+<img src="https://skale.dev/wp-content/uploads/2024/10/skalelogo_grey_trans-300x150.png" alt="Skale.dev Logo" width="150">
 
 This list is maintained by skale.dev.
 
