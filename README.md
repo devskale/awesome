@@ -29,6 +29,8 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [jDoodle](https://www.jdoodle.ai/) - An online compiler and AI tool for coding.
 - [Tempo](https://www.tempo.new/) - A tool for managing time and tasks with AI assistance.
 - [Lovart.ai](https://www.lovart.ai/) - A design agent who creates by your side.
+- [mocha](https://getmocha.com/)
+- [HeroUI](https://www.heroui.com/)
 
 ## PRDs
 
