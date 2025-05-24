@@ -34,11 +34,11 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Rork](https://rork.com/)
 
 ## Build Animations
-- [FramerMotion]()
-- [Lottie]()
-- [RiveApp]()
-- [GSAP]()
-- [Spring.js]()
+- [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
+- [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
+- [RiveApp](https://rive.app/) - Ein Tool zur Erstellung interaktiver, zustandsbasierter Vektoranimationen, die sich in Echtzeit in Web, Apps und Spiele integrieren lassen
+- [GSAP](https://gsap.com/) - Eine extrem leistungsstarke, framework-unabhängige JavaScript-Bibliothek zur Erstellung hochperformanter, präziser Animationen für alles, was JavaScript im Web steuern kann – von UI-Elementen über SVG bis zu komplexen Sequenzen
+- [Spring.js]([https://spring.js.org/](https://www.react-spring.dev/) - Eine flexible Animationsbibliothek für React, die natürliche, federbasierte Animationen über deklarative Hooks ermöglicht
 
 
 ## PRDs
