@@ -33,6 +33,14 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [HeroUI](https://www.heroui.com/)
 - [Rork](https://rork.com/)
 
+## Build Animations
+- [FramerMotion]()
+- [Lottie]()
+- [RiveApp]()
+- [GSAP]()
+- [Spring.js]()
+
+
 ## PRDs
 
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
