@@ -32,7 +32,8 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [mocha](https://getmocha.com/)
 - [HeroUI](https://www.heroui.com/)
 - [Rork](https://rork.com/)
-
+- [Same](https://same.new/)
+- 
 ## Build Animations
 - [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
 - [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
