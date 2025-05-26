@@ -58,8 +58,10 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Fronty](https://fronty.com/) - Convert image to HTML CSS
 - [BoringUi](https://boringui.xyz) - enter data in json, explain your design and...done!
 - [Polymet](https://www.polymet.ai/) - AI Product Designer at your service.
+- [JulesGoogle](https://jules.google/) - Jules by Google
+- [IDX](https://idx.google.com/) - IDX by Google
 
-## Build Animations
+## Animations
 
 - [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
 - [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
@@ -67,7 +69,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [GSAP](https://gsap.com/) - Eine extrem leistungsstarke, framework-unabhängige JavaScript-Bibliothek zur Erstellung hochperformanter, präziser Animationen für alles, was JavaScript im Web steuern kann – von UI-Elementen über SVG bis zu komplexen Sequenzen
 - [Spring.js](https://www.react-spring.dev/) - Eine flexible Animationsbibliothek für React, die natürliche, federbasierte Animationen über deklarative Hooks ermöglicht
 
-## PRDs
+## Generate PRDs
 
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
 - [usePRD](https://useprd.com/)
