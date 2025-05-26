@@ -31,6 +31,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+- [Void](https://voideditor.com/) - Open source Cursor alternative
 
 ## AI Creator Apps
 
@@ -61,13 +62,27 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [JulesGoogle](https://jules.google/) - Jules by Google
 - [IDX](https://idx.google.com/) - IDX by Google
 
-## Animations
+## Web Animations
 
 - [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
 - [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
 - [RiveApp](https://rive.app/) - Ein Tool zur Erstellung interaktiver, zustandsbasierter Vektoranimationen, die sich in Echtzeit in Web, Apps und Spiele integrieren lassen
 - [GSAP](https://gsap.com/) - Eine extrem leistungsstarke, framework-unabhängige JavaScript-Bibliothek zur Erstellung hochperformanter, präziser Animationen für alles, was JavaScript im Web steuern kann – von UI-Elementen über SVG bis zu komplexen Sequenzen
 - [Spring.js](https://www.react-spring.dev/) - Eine flexible Animationsbibliothek für React, die natürliche, federbasierte Animationen über deklarative Hooks ermöglicht
+
+## Video Generation
+
+- [Magi](https://magi.sand.ai) - 500 Free Monthly Credits
+- [klingai](https://klingai.com) - 166 Monthly Credits
+- [Veo](https://deepmind.google/models/veo/) - Google Veo
+- [Hunyuan](https://video.hunyuan.tencent.com/) - Tencent Video
+- [WAN](https://wan.video/) - alibaba Video
+- [hailuoai](https://hailuoai.video/)
+
+## Image Generation
+
+- [Pollinations.ai](https://pollinations.ai/) - Free Image Generation without APIKEY
+- [AI Horde](https://stablehorde.net/) - Free Flux Generation [API](https://stablehorde.net/api/)
 
 ## Generate PRDs
 
