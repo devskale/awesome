@@ -2,7 +2,7 @@
 
 This list is maintained by skale.dev.
 
-# aicode
+# Awesome AI Tools for Coding and Designing
 
 A comprehensive collection of prompt examples and prompting techniques for AI enthusiasts and developers. This repository aims to provide valuable resources and insights into the world of AI-driven applications and tools.
 
@@ -81,8 +81,10 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 
 ## Image Generation
 
-- [Pollinations.ai](https://pollinations.ai/) - Free Image Generation without APIKEY
-- [AI Horde](https://stablehorde.net/) - Free Flux Generation [API](https://stablehorde.net/api/)
+- [Pollinations.ai](https://pollinations.ai/) - Free Image Generation API without APIKEY
+- [AI Horde](https://stablehorde.net/) - Free community shared Flux Generation [API](https://stablehorde.net/api/)
+- [Kling](https://klingai.com) - Monthly Credits
+- [glif](https://glif.app/) - AI Workflow Remixing
 
 ## Generate PRDs
 
