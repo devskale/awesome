@@ -61,6 +61,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Polymet](https://www.polymet.ai/) - AI Product Designer at your service.
 - [JulesGoogle](https://jules.google/) - Jules by Google
 - [IDX](https://idx.google.com/) - IDX by Google
+- [SiteBrew](https://www.sitebrew.ai/create) - Site Generator
 
 ## Web Animations
 
