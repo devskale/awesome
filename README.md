@@ -35,70 +35,60 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 
 ## AI Code Builders
 
-- [Magic Patterns](https://www.magicpatterns.com/) - A tool for generating creative patterns using AI.
-- [Lovable](https://lovable.dev/) - An AI-driven platform for creating lovable designs.
-- [v0](https://v0.dev/) - A versatile AI tool for various creative tasks.
-- [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - A Hugging Face space for deep learning applications.
-- [Replit](https://replit.com/) - An online IDE for collaborative coding and AI projects.
-- [IDX](https://idx.google.com/templates) - by Google - A template-based AI development platform.
-- [Bolt](https://bolt.new) - A fast and efficient AI tool for quick tasks.
-- [Base44](https://base44.com/) - A platform for AI-driven base conversions.
-- [Creatr](https://getcreatr.com/) - An AI tool for creating unique content.
-- [jDoodle](https://www.jdoodle.ai/) - An online compiler and AI tool for coding.
-- [Tempo](https://www.tempo.new/) - A tool for managing time and tasks with AI assistance.
-- [Lovart.ai](https://www.lovart.ai/) - A design agent who creates by your side.
-- [mocha](https://getmocha.com/)
-- [HeroUI](https://www.heroui.com/)
-- [Rork](https://rork.com/)
-- [Same](https://same.new/)
-- [Tempt](https://www.tempo.new/) - React App Site / Component Builder. Works with any react codebase.
-- [Kombai](https://kombai.com) - Input your design files. Get high-quality HTML, CSS or React code
-- [CodeParrot](https://codeparrot.ai/) - Production Ready Frontend Pages in minutes using Figma Designs or Screenshots.
-- [StitchGoogle](https://stitch.withgoogle.com/) - Transform ideas into UI designs for mobile and web applications.
-- [UIzard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
-- [Fronty](https://fronty.com/) - Convert image to HTML CSS
-- [BoringUi](https://boringui.xyz) - enter data in json, explain your design and...done!
-- [Polymet](https://www.polymet.ai/) - AI Product Designer at your service.
-- [JulesGoogle](https://jules.google/) - Jules by Google
-- [IDX](https://idx.google.com/) - IDX by Google
-- [SiteBrew](https://www.sitebrew.ai/create) - Site Generator
-- [FactoryAI](https://www.factory.ai) - An advanced AI coding tool that generates complex apps and documentation, works well with large existing projects, has access to web search, MCPs, can run code on a local machine, and has an excellent UX. Best for coders.
-- [HeybossAI](https://www.heyboss.ai) - The most creative AI coding tool on the market, capable of building production-grade apps with backend and database. Works great for non-coders and produces impressive design outputs.
-- [EmergentLabsHQ](https://emergent.sh) - An agentic vibe coding tool that can handle entire apps with frontend and backend. It works fast, feels like a CTO or tech co-founder, and features multi-agent capabilities (e.g., coding agent, testing agent).
-- [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
-- [Create_xyz](https://create.xyz) - Can clone a product from a provided link, has connections to databases like The Movie DB and HackerNews, and supports authentication with one prompt. Good for creating functioning products with minimal prompts.
-- [Stitch](https://stitch.google.com) - Best for prototyping, suitable for founders, designers, and non-coders. Much faster than other tools. _(Note: Assumed to be a Google product based on the name "Stitch from Google"; linked to a plausible Google-related domain, though the exact product may vary.)_
-- [Grok Studio](https://grok.x.ai) - A favorite for playing with code, suggested for learning coding, especially for vibe coders. _(Note: As a product from xAI, linked to the official Grok page, assuming Grok Studio is an extension or feature.)_
-- [Canva Code](https://www.canva.com) - Perfect for creating lead magnets for founders, non-coders, and marketers. _(Note: Assumed to be a feature of Canva; linked to the main Canva website.)_
-- [Augmentcode](https://www.augmentcode.com) - Works in VS Code and JetBrains, built for coders. Can execute code, run terminals, find issues, and analyze code for performance optimization in production.
-- [Buildwithmocha](https://www.buildwithmocha.com) - Designed for non-coders, builds full-stack apps from prompts with complete features (auth, database, hosting, emails). Ideal for non-technical users.
-- [Rork_app](https://www.rork.app) - A text-to-app AI agent that builds mobile apps and publishes directly on TestFlight. Perfect for non-coders building mobile apps.
-- [Clark](https://www.clark.ai) - An AI agent for building internal enterprise apps, capable of creating apps from Jira tickets. Combines prompting, Figma-like editing, and coding.
-- [GitHub Copilot](https://github.com/features/copilot) - The original AI coding tool (started in 2020), can generate code, handle large codebases, merge PRs, fix bugs, search code, supports agent mode, and is now open-sourced.
-- [Replit AI](https://replit.com) - Considered the most advanced AI agent for coding, with Agent or Assistant modes. A true full-stack app generator with its own server, database, and hosting.
-- [v0](https://v0.dev) - Best for making well-designed web pages or UIs, integrates with Figma, allows element-by-element editing, but not ideal for full-stack apps.
-- [MarsX](https://www.marsx.dev) - A mix of AI, no-code, and high-code, designed as a "SaaS builder" rather than a website builder. Used to build products like @seobotai, @listingbott, and @indexrusher.
-- [Devin](https://www.cognition-labs.com/devin) - Targets the corporate world, acts as a junior dev in a team, sends pull requests, and works alongside teams. Not as expensive anymore but may struggle with messy repositories.
-- [Webdraw](https://www.webdraw.app) - Best for people with zero coding experience, features a genius UX, is free, and turns sketches into web apps.
-- [Tempo Labs](https://www.tempolabs.ai) - Generates full-stack apps using text or image prompts, starts by creating architecture and diagrams, and offers an impressive AI coding UX.
-- [Trae](https://www.bytedance.com/en/trae) - Goes from zero to one via prompting, free, from ByteDance, can build full-stack web apps, and is designed for coders. _(Note: Linked to ByteDance’s main site with a subpath for Trae, as ByteDance products often follow this structure.)_
-- [Cline](https://www.cline.dev) - A VS Code plugin that works for large codebases, supports any LLM, and has runtime awareness.
-- [Databutton](https://www.databutton.com) - From Norway, backed by VCs, offers a unique approach different from most players, and works great for true non-coders.
-- [Continue dot Dev](https://www.continue.dev) - An open-source alternative to Cursor, great for those who want to build their own AI IDE.
-- [Base44](https://www.base44.com) - Designed for non-coders, an all-in-one tool that creates dashboard-like apps effectively.
-- [Qodo](https://www.qodo.ai) - For coders, can write tests, refactor, and generate code, supporting all LLMs, including DeepSeek.
-- [Cursor](https://www.cursor.com) - The best tool for coders (not ideal for non-coders), can assist, autocomplete, refactor, and build entire modules or projects. Demonstrated migrating from Tailwind v3 to v4.
-- [Bolt](https://bolt.new) - Started as a StackBlitz side project, raised $105M, works for everyone (coders, non-coders, marketers), and has out-of-the-box Supabase integration for data and auth.
-- [Lovable](https://www.lovable.dev) - The fastest-growing EU-based startup ($10M ARR), features native Supabase integration, offers the best AI+no-code mix with a WYSIWYG editor, and can produce full web apps from screenshots.
-- [Windsurf](https://www.windsurf.ai) - Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
-- [IDX](https://idx.google.com) - A free alternative to Cursor, can build mobile apps, and uses Gemini.
-- [Softgen](https://www.softgen.ai) - Works well for both coders and non-coders, can fix its own bugs, and can host web apps.
-- [Pear AI](https://www.pear.ai) - Entered YC, had drama around forking a GitHub repo, and is an alternative to Cursor.
-- [Github Spark](https://github.com/spark) - Works well for small or demo apps, still behind a waitlist. _(Note: Linked to a GitHub subpath, assuming it’s a GitHub product.)_
-- [Claude](https://www.anthropic.com/claude) - Can write and run code, super easy to get started (free), and works for basic cases like building components or learning coding.
-- [Amazon Q](https://aws.amazon.com/q/) - Rarely used and lagging behind top players.
 - [Aider](https://aider.chat) - A terminal app for generating web apps out of prompts.
+- [Amazon Q](https://aws.amazon.com/q/) - Rarely used and lagging behind top players.
+- [Augmentcode](https://www.augmentcode.com) - Works in VS Code and JetBrains, built for coders. Can execute code, run terminals, find issues, and analyze code for performance optimization in production.
+- [Base44](https://www.base44.com) - Designed for non-coders, an all-in-one tool that creates dashboard-like apps effectively.
+- [Bolt](https://bolt.new) - Started as a StackBlitz side project, raised $105M, works for everyone (coders, non-coders, marketers), and has out-of-the-box Supabase integration for data and auth.
+- [BoringUi](https://boringui.xyz) - enter data in json, explain your design and...done!
 - [Caffeine AI](https://www.caffeine.ai) - A new player, too early to evaluate fully.
+- [Canva Code](https://www.canva.com) - Perfect for creating lead magnets for founders, non-coders, and marketers. _(Note: Assumed to be a feature of Canva; linked to the main Canva website.)_
+- [Clark](https://www.clark.ai) - An AI agent for building internal enterprise apps, capable of creating apps from Jira tickets. Combines prompting, Figma-like editing, and coding.
+- [Claude](https://www.anthropic.com/claude) - Can write and run code, super easy to get started (free), and works for basic cases like building components or learning coding.
+- [Cline](https://www.cline.dev) - A VS Code plugin that works for large codebases, supports any LLM, and has runtime awareness.
+- [CodeParrot](https://codeparrot.ai/) - Production Ready Frontend Pages in minutes using Figma Designs or Screenshots.
+- [Continue dot Dev](https://www.continue.dev) - An open-source alternative to Cursor, great for those who want to build their own AI IDE.
+- [Create_xyz](https://create.xyz) - Can clone a product from a provided link, has connections to databases like The Movie DB and HackerNews, and supports authentication with one prompt. Good for creating functioning products with minimal prompts.
+- [Creatr](https://getcreatr.com/) - An AI tool for creating unique content.
+- [Cursor](https://www.cursor.com) - The best tool for coders (not ideal for non-coders), can assist, autocomplete, refactor, and build entire modules or projects. Demonstrated migrating from Tailwind v3 to v4.
+- [Databutton](https://www.databutton.com) - From Norway, backed by VCs, offers a unique approach different from most players, and works great for true non-coders.
+- [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - A Hugging Face space for deep learning applications.
+- [Devin](https://www.cognition-labs.com/devin) - Targets the corporate world, acts as a junior dev in a team, sends pull requests, and works alongside teams. Not as expensive anymore but may struggle with messy repositories.
+- [EmergentLabsHQ](https://emergent.sh) - An agentic vibe coding tool that can handle entire apps with frontend and backend. It works fast, feels like a CTO or tech co-founder, and features multi-agent capabilities (e.g., coding agent, testing agent).
+- [FactoryAI](https://www.factory.ai) - An advanced AI coding tool that generates complex apps and documentation, works well with large existing projects, has access to web search, MCPs, can run code on a local machine, and has an excellent UX. Best for coders.
+- [Fronty](https://fronty.com/) - Convert image to HTML CSS
+- [GitHub Copilot](https://github.com/features/copilot) - The original AI coding tool (started in 2020), can generate code, handle large codebases, merge PRs, fix bugs, search code, supports agent mode, and is now open-sourced.
+- [Github Spark](https://github.com/spark) - Works well for small or demo apps, still behind a waitlist. _(Note: Linked to a GitHub subpath, assuming it’s a GitHub product.)_
+- [Grok Studio](https://grok.x.ai) - A favorite for playing with code, suggested for learning coding, especially for vibe coders. _(Note: As a product from xAI, linked to the official Grok page, assuming Grok Studio is an extension or feature.)_
+- [HeroUI](https://www.heroui.com/)
+- [HeybossAI](https://www.heyboss.ai) - The most creative AI coding tool on the market, capable of building production-grade apps with backend and database. Works great for non-coders and produces impressive design outputs.
+- [IDX](https://idx.google.com) - A free alternative to Cursor, can build mobile apps, and uses Gemini.
+- [jDoodle](https://www.jdoodle.ai/) - An online compiler and AI tool for coding.
+- [JulesGoogle](https://jules.google/) - Jules by Google
+- [Kombai](https://kombai.com) - Input your design files. Get high-quality HTML, CSS or React code
+- [Lovable](https://www.lovable.dev) - The fastest-growing EU-based startup ($10M ARR), features native Supabase integration, offers the best AI+no-code mix with a WYSIWYG editor, and can produce full web apps from screenshots.
+- [Lovart.ai](https://www.lovart.ai/) - A design agent who creates by your side.
+- [Magic Patterns](https://www.magicpatterns.com/) - A tool for generating creative patterns using AI.
+- [MarsX](https://www.marsx.dev) - A mix of AI, no-code, and high-code, designed as a "SaaS builder" rather than a website builder. Used to build products like @seobotai, @listingbott, and @indexrusher.
+- [mocha](https://getmocha.com/) - Designed for non-coders, builds full-stack apps from prompts with complete features (auth, database, hosting, emails). Ideal for non-technical users.
+- [Pear AI](https://www.pear.ai) - Entered YC, had drama around forking a GitHub repo, and is an alternative to Cursor.
+- [Polymet](https://www.polymet.ai/) - AI Product Designer at your service.
+- [Qodo](https://www.qodo.ai) - For coders, can write tests, refactor, and generate code, supporting all LLMs, including DeepSeek.
+- [Replit AI](https://replit.com) - Considered the most advanced AI agent for coding, with Agent or Assistant modes. A true full-stack app generator with its own server, database, and hosting.
+- [Replit](https://replit.com/) - An online IDE for collaborative coding and AI projects.
+- [Rork_app](https://www.rork.app) - A text-to-app AI agent that builds mobile apps and publishes directly on TestFlight. Perfect for non-coders building mobile apps.
+- [Same](https://same.new/)
+- [SiteBrew](https://www.sitebrew.ai/create) - Site Generator
+- [Softgen](https://www.softgen.ai) - Works well for both coders and non-coders, can fix its own bugs, and can host web apps.
+- [Stitch](https://stitch.google.com) - Best for prototyping, suitable for founders, designers, and non-coders. Much faster than other tools. _(Note: Assumed to be a Google product based on the name "Stitch from Google"; linked to a plausible Google-related domain, though the exact product may vary.)_
+- [StitchGoogle](https://stitch.withgoogle.com/) - Transform ideas into UI designs for mobile and web applications.
+- [Tempo Labs](https://www.tempo.new) - Generates full-stack apps using text or image prompts, starts by creating architecture and diagrams, and offers an impressive AI coding UX.
+- [Trae](https://www.trae.ai) - Goes from zero to one via prompting, free, from ByteDance, can build full-stack web apps, and is designed for coders. _(Note: Linked to ByteDance’s main site with a subpath for Trae, as ByteDance products often follow this structure.)_
+- [UIzard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
+- [v0](https://v0.dev) - Best for making well-designed web pages or UIs, integrates with Figma, allows element-by-element editing, but not ideal for full-stack apps.
+- [Webdraw](https://www.webdraw.app) - Best for people with zero coding experience, features a genius UX, is free, and turns sketches into web apps.
+- [Windsurf](https://www.windsurf.ai) - Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
+- [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
 
 ## Web Animations
 
