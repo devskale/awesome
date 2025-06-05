@@ -62,7 +62,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Grok Studio](https://grok.x.ai) - A favorite for playing with code, suggested for learning coding, especially for vibe coders. _(Note: As a product from xAI, linked to the official Grok page, assuming Grok Studio is an extension or feature.)_
 - [HeroUI](https://www.heroui.com/)
 - [HeybossAI](https://www.heyboss.ai) - The most creative AI coding tool on the market, capable of building production-grade apps with backend and database. Works great for non-coders and produces impressive design outputs.
-- [IDX](https://idx.google.com) - A free alternative to Cursor, can build mobile apps, and uses Gemini.
+- [IDX](https://idx.google.com) - now firebase, A free alternative to Cursor, can build mobile apps, and uses Gemini.
 - [jDoodle](https://www.jdoodle.ai/) - An online compiler and AI tool for coding.
 - [JulesGoogle](https://jules.google/) - Jules by Google
 - [Kombai](https://kombai.com) - Input your design files. Get high-quality HTML, CSS or React code
