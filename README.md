@@ -89,6 +89,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Webdraw](https://www.webdraw.app) - Best for people with zero coding experience, features a genius UX, is free, and turns sketches into web apps.
 - [Windsurf](https://www.windsurf.ai) - Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
 - [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
+- [Rocket](https://www.rocket.new/) - rocket new
 
 ## Web Animations
 
