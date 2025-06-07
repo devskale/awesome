@@ -14,6 +14,8 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts, offering a wide range of system prompts.
 - [UI Prompt Explorer](https://uiprompt.art/) - An interactive platform to explore and experiment with UI prompts.
 - [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaksg) - A collection of leaked system prompts for analysis.
+- [Prompt Checker](https://promptchecker.withcascade.ai/)
+- [Latitude](https://latitude.so/)
 
 ## IDEs
 
@@ -32,6 +34,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Void](https://voideditor.com/) - Open source Cursor alternative
+- [Athas](https://athas.dev/) -
 
 ## AI Code Builders
 
