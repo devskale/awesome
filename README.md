@@ -35,6 +35,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Void](https://voideditor.com/) - Open source Cursor alternative
 - [Athas](https://athas.dev/) -
+- [Kilo](https://kilocode.ai) - Kilo combines all features of Cline, Roo, and our own additions
 
 ## AI Code Builders
 
