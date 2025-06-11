@@ -94,6 +94,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Windsurf](https://www.windsurf.ai) - Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
 - [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
 - [Rocket](https://www.rocket.new/) - rocket new
+- [new website](https://new.website)- website from a sentence
 
 ## Web Animations
 
