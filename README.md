@@ -8,7 +8,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 
 # Links
 
-## Prompt Examples
+## Prompting
 
 - [Repo Promptlib](./promptlib) - A library of prompt examples for various AI models.
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts, offering a wide range of system prompts.
@@ -16,6 +16,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaksg) - A collection of leaked system prompts for analysis.
 - [Prompt Checker](https://promptchecker.withcascade.ai/)
 - [Latitude](https://latitude.so/)
+- [Adaline](https://app.adaline.ai/) - platform to iterate, evaluate, deploy, and monitor LLMs
 
 ## IDEs
 
