@@ -126,7 +126,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
 - [usePRD](https://useprd.com/)
 
-## Cursor Rules
+## Agent Rules
 
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo with a curated list of cursor rules.
 - [cursor.directory](https://cursor.directory/) - Explore and generate custom cursor rules.
@@ -140,6 +140,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [codeguide.dev](https://www.codeguide.dev/) - A guide for coding with cursor rules.
 - [promptstack.dev](https://promptstack.dev/) - A stack of prompts and rules for cursor management.
 - [10xrules](https://10xrules.ai/) - AI-driven rules for enhancing productivity.
+- [Steipete Rules](https://github.com/steipete/agent-rules) - Rules Collection of Peter Steigenberger
 
 ## MCP Servers
 
