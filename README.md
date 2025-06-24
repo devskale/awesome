@@ -8,7 +8,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 
 # Links
 
-## Prompt Examples
+## Prompting
 
 - [Repo Promptlib](./promptlib) - A library of prompt examples for various AI models.
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts, offering a wide range of system prompts.
@@ -16,6 +16,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaksg) - A collection of leaked system prompts for analysis.
 - [Prompt Checker](https://promptchecker.withcascade.ai/)
 - [Latitude](https://latitude.so/)
+- [Adaline](https://app.adaline.ai/) - platform to iterate, evaluate, deploy, and monitor LLMs
 
 ## IDEs
 
@@ -125,7 +126,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
 - [usePRD](https://useprd.com/)
 
-## Cursor Rules
+## Agent Rules
 
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo with a curated list of cursor rules.
 - [cursor.directory](https://cursor.directory/) - Explore and generate custom cursor rules.
@@ -139,6 +140,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [codeguide.dev](https://www.codeguide.dev/) - A guide for coding with cursor rules.
 - [promptstack.dev](https://promptstack.dev/) - A stack of prompts and rules for cursor management.
 - [10xrules](https://10xrules.ai/) - AI-driven rules for enhancing productivity.
+- [Steipete Rules](https://github.com/steipete/agent-rules) - Rules Collection of Peter Steigenberger
 
 ## MCP Servers
 
