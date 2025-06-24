@@ -59,7 +59,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Databutton](https://www.databutton.com) - From Norway, backed by VCs, offers a unique approach different from most players, and works great for true non-coders.
 - [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - A Hugging Face space for deep learning applications.
 - [Devin](https://www.cognition-labs.com/devin) - Targets the corporate world, acts as a junior dev in a team, sends pull requests, and works alongside teams. Not as expensive anymore but may struggle with messy repositories.
-- [EmergentLabsHQ](https://emergent.sh) - An agentic vibe coding tool that can handle entire apps with frontend and backend. It works fast, feels like a CTO or tech co-founder, and features multi-agent capabilities (e.g., coding agent, testing agent).
+- [Emergent.sh](https://emergent.sh) - An agentic vibe coding tool that can handle entire apps with frontend and backend. It works fast, feels like a CTO or tech co-founder, and features multi-agent capabilities (e.g., coding agent, testing agent).
 - [FactoryAI](https://www.factory.ai) - An advanced AI coding tool that generates complex apps and documentation, works well with large existing projects, has access to web search, MCPs, can run code on a local machine, and has an excellent UX. Best for coders.
 - [Fronty](https://fronty.com/) - Convert image to HTML CSS
 - [GitHub Copilot](https://github.com/features/copilot) - The original AI coding tool (started in 2020), can generate code, handle large codebases, merge PRs, fix bugs, search code, supports agent mode, and is now open-sourced.
