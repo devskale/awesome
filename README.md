@@ -37,6 +37,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Void](https://voideditor.com/) - Open source Cursor alternative
 - [Athas](https://athas.dev/) -
 - [Kilo](https://kilocode.ai) - Kilo combines all features of Cline, Roo, and our own additions
+- [Kiro](https://kiro.dev) - agentic IDE that works alongside you from prototype to production
 
 ## AI Code Builders
 
