@@ -96,6 +96,7 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
 - [Rocket](https://www.rocket.new/) - rocket new
 - [new website](https://new.website)- website from a sentence
+- [orchid](https://www.orchids.app/) - make beautiful website that do not look ai coded
 
 ## Web Animations
 
@@ -148,5 +149,4 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [mcpmarket.com](https://mcpmarket.com/server/hub)
 - [hub.continue.dev](https://hub.continue.dev/explore/mcp)
 - [mpc.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
-
-### List of AI Code Builders
+- [mcpjam](https://github.com/MCPJam/inspector) - mcp test server
