@@ -2,9 +2,9 @@
 
 This list is maintained by skale.dev.
 
-# Awesome AI Tools for Coding and Designing
+# Awesome Lists
 
-A comprehensive collection of prompt examples and prompting techniques for AI enthusiasts and developers. This repository aims to provide valuable resources and insights into the world of AI-driven applications and tools.
+A collection of awesome curated lists of development and coding related tools and packages.
 
 # Links
 
@@ -151,3 +151,10 @@ A comprehensive collection of prompt examples and prompting techniques for AI en
 - [hub.continue.dev](https://hub.continue.dev/explore/mcp)
 - [mpc.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
 - [mcpjam](https://github.com/MCPJam/inspector) - mcp test server
+
+## TUI Browsing
+
+- [w3m](https://w3m.sourceforge.net/) - w3m is a lightweight, text-based web browser for terminal use that renders basic HTML and supports tables, frames, and SSL, making it ideal for quick browsing in console environments.
+- [chawam](https://github.com/devskale/chawan) - Chawan is a minimalist, terminal-based web browser built for speed and simplicity, allowing users to browse the web directly from the command line with minimal resource usage.
+- [offpunk](https://github.com/devskale/offpunk) - Offpunk is a minimalist, offline-first terminal web browser designed to render simplified versions of web pages for low-bandwidth or disconnected environments.
+- [brewsh](https://www.brow.sh/) - Browsh is a modern, text-based terminal browser that renders graphical web content—including HTML5, CSS, and JavaScript—as text in real time, allowing full browsing of modern websites directly in the terminal.
