@@ -162,3 +162,4 @@ A collection of awesome curated lists of development and coding related tools an
 - [Chawan](https://github.com/devskale/chawan) - Chawan is a minimalist, terminal-based web browser built for speed and simplicity, allowing users to browse the web directly from the command line with minimal resource usage.
 - [offpunk](https://github.com/devskale/offpunk) - Offpunk is a minimalist, offline-first terminal web browser designed to render simplified versions of web pages for low-bandwidth or disconnected environments.
 - [browsh](https://www.brow.sh/) - Browsh is a modern, text-based terminal browser that renders graphical web content—including HTML5, CSS, and JavaScript—as text in real time, allowing full browsing of modern websites directly in the terminal.
+- [carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
