@@ -8,6 +8,11 @@ A collection of awesome curated lists of development and coding related tools an
 
 # Links
 
+## 📂 Local Resources
+
+- [Promptlib](./promptlib) - Local library of prompts and examples.
+- [Rules](./rules) - Local collection of agent rules and guidelines.
+
 ## 🧠 Prompting
 
 - [Repo Promptlib](./promptlib) - A library of prompt examples for various AI models.
@@ -64,7 +69,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [FactoryAI](https://www.factory.ai) - An advanced AI coding tool that generates complex apps and documentation, works well with large existing projects, has access to web search, MCPs, can run code on a local machine, and has an excellent UX. Best for coders.
 - [Fronty](https://fronty.com/) - Convert image to HTML CSS
 - [GitHub Copilot](https://github.com/features/copilot) - The original AI coding tool (started in 2020), can generate code, handle large codebases, merge PRs, fix bugs, search code, supports agent mode, and is now open-sourced.
-- [Github Spark](https://github.com/spark) - Works well for small or demo apps, still behind a waitlist. _(Note: Linked to a GitHub subpath, assuming it’s a GitHub product.)_
+- [GitHub Spark](https://github.com/spark) - Works well for small or demo apps, still behind a waitlist. _(Note: Linked to a GitHub subpath, assuming it’s a GitHub product.)_
 - [Grok Studio](https://grok.x.ai) - A favorite for playing with code, suggested for learning coding, especially for vibe coders. _(Note: As a product from xAI, linked to the official Grok page, assuming Grok Studio is an extension or feature.)_
 - [HeroUI](https://www.heroui.com/)
 - [HeybossAI](https://www.heyboss.ai) - The most creative AI coding tool on the market, capable of building production-grade apps with backend and database. Works great for non-coders and produces impressive design outputs.
@@ -86,8 +91,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [Same](https://same.new/)
 - [SiteBrew](https://www.sitebrew.ai/create) - Site Generator
 - [Softgen](https://www.softgen.ai) - Works well for both coders and non-coders, can fix its own bugs, and can host web apps.
-- [Stitch](https://stitch.google.com) - Best for prototyping, suitable for founders, designers, and non-coders. Much faster than other tools. _(Note: Assumed to be a Google product based on the name "Stitch from Google"; linked to a plausible Google-related domain, though the exact product may vary.)_
-- [StitchGoogle](https://stitch.withgoogle.com/) - Transform ideas into UI designs for mobile and web applications.
+- [Stitch (Google)](https://stitch.withgoogle.com/) - Best for prototyping; transforms ideas into UI designs for mobile and web; fast and suitable for founders, designers, and non-coders.
 - [Tempo Labs](https://www.tempo.new) - Generates full-stack apps using text or image prompts, starts by creating architecture and diagrams, and offers an impressive AI coding UX.
 - [Trae](https://www.trae.ai) - Goes from zero to one via prompting, free, from ByteDance, can build full-stack web apps, and is designed for coders. _(Note: Linked to ByteDance’s main site with a subpath for Trae, as ByteDance products often follow this structure.)_
 - [UIzard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
@@ -146,15 +150,15 @@ A collection of awesome curated lists of development and coding related tools an
 
 ## 🖥️ MCP Servers
 
-- [Github MCP](https://github.com/apappascs/mcp-servers-hub) Github Repo with MCP Servers Hub List
+- [GitHub MCP](https://github.com/apappascs/mcp-servers-hub) GitHub repo with MCP Servers Hub List
 - [mcpmarket.com](https://mcpmarket.com/server/hub)
 - [hub.continue.dev](https://hub.continue.dev/explore/mcp)
-- [mpc.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
+- [mcp.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
 - [mcpjam](https://github.com/MCPJam/inspector) - mcp test server
 
 ## 🌐 TUI Browsing
 
 - [w3m](https://w3m.sourceforge.net/) - w3m is a lightweight, text-based web browser for terminal use that renders basic HTML and supports tables, frames, and SSL, making it ideal for quick browsing in console environments.
-- [chawam](https://github.com/devskale/chawan) - Chawan is a minimalist, terminal-based web browser built for speed and simplicity, allowing users to browse the web directly from the command line with minimal resource usage.
+- [Chawan](https://github.com/devskale/chawan) - Chawan is a minimalist, terminal-based web browser built for speed and simplicity, allowing users to browse the web directly from the command line with minimal resource usage.
 - [offpunk](https://github.com/devskale/offpunk) - Offpunk is a minimalist, offline-first terminal web browser designed to render simplified versions of web pages for low-bandwidth or disconnected environments.
 - [browsh](https://www.brow.sh/) - Browsh is a modern, text-based terminal browser that renders graphical web content—including HTML5, CSS, and JavaScript—as text in real time, allowing full browsing of modern websites directly in the terminal.
