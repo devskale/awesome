@@ -8,7 +8,7 @@ A collection of awesome curated lists of development and coding related tools an
 
 # Links
 
-## Prompting
+## 🧠 Prompting
 
 - [Repo Promptlib](./promptlib) - A library of prompt examples for various AI models.
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts, offering a wide range of system prompts.
@@ -18,7 +18,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [Latitude](https://latitude.so/)
 - [Adaline](https://app.adaline.ai/) - platform to iterate, evaluate, deploy, and monitor LLMs
 
-## IDEs
+## 💻 IDEs
 
 - [VSCode](https://code.visualstudio.com/) - VS Code with Copilot
 - [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code.
@@ -39,7 +39,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [Kilo](https://kilocode.ai) - Kilo combines all features of Cline, Roo, and our own additions
 - [Kiro](https://kiro.dev) - agentic IDE that works alongside you from prototype to production
 
-## AI Code Builders
+## 🤖 AI Code Builders
 
 - [Aider](https://aider.chat) - A terminal app for generating web apps out of prompts.
 - [Amazon Q](https://aws.amazon.com/q/) - Rarely used and lagging behind top players.
@@ -99,7 +99,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [new website](https://new.website)- website from a sentence
 - [orchid](https://www.orchids.app/) - make beautiful website that do not look ai coded
 
-## Web Animations
+## 🎨 Web Animations
 
 - [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
 - [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
@@ -107,7 +107,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [GSAP](https://gsap.com/) - Eine extrem leistungsstarke, framework-unabhängige JavaScript-Bibliothek zur Erstellung hochperformanter, präziser Animationen für alles, was JavaScript im Web steuern kann – von UI-Elementen über SVG bis zu komplexen Sequenzen
 - [Spring.js](https://www.react-spring.dev/) - Eine flexible Animationsbibliothek für React, die natürliche, federbasierte Animationen über deklarative Hooks ermöglicht
 
-## Video Generation
+## 🎥 Video Generation
 
 - [Magi](https://magi.sand.ai) - 500 Free Monthly Credits
 - [klingai](https://klingai.com) - 166 Monthly Credits
@@ -116,19 +116,19 @@ A collection of awesome curated lists of development and coding related tools an
 - [WAN](https://wan.video/) - alibaba Video
 - [hailuoai](https://hailuoai.video/)
 
-## Image Generation
+## 🖼️ Image Generation
 
 - [Pollinations.ai](https://pollinations.ai/) - Free Image Generation API without APIKEY
 - [AI Horde](https://stablehorde.net/) - Free community shared Flux Generation [API](https://stablehorde.net/api/)
 - [Kling](https://klingai.com) - Monthly Credits
 - [glif](https://glif.app/) - AI Workflow Remixing
 
-## Generate PRDs
+## 📋 Generate PRDs
 
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
 - [usePRD](https://useprd.com/)
 
-## Agent Rules
+## 📜 Agent Rules
 
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo with a curated list of cursor rules.
 - [cursor.directory](https://cursor.directory/) - Explore and generate custom cursor rules.
@@ -144,7 +144,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [10xrules](https://10xrules.ai/) - AI-driven rules for enhancing productivity.
 - [Steipete Rules](https://github.com/steipete/agent-rules) - Rules Collection of Peter Steigenberger
 
-## MCP Servers
+## 🖥️ MCP Servers
 
 - [Github MCP](https://github.com/apappascs/mcp-servers-hub) Github Repo with MCP Servers Hub List
 - [mcpmarket.com](https://mcpmarket.com/server/hub)
@@ -152,9 +152,9 @@ A collection of awesome curated lists of development and coding related tools an
 - [mpc.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
 - [mcpjam](https://github.com/MCPJam/inspector) - mcp test server
 
-## TUI Browsing
+## 🌐 TUI Browsing
 
 - [w3m](https://w3m.sourceforge.net/) - w3m is a lightweight, text-based web browser for terminal use that renders basic HTML and supports tables, frames, and SSL, making it ideal for quick browsing in console environments.
 - [chawam](https://github.com/devskale/chawan) - Chawan is a minimalist, terminal-based web browser built for speed and simplicity, allowing users to browse the web directly from the command line with minimal resource usage.
 - [offpunk](https://github.com/devskale/offpunk) - Offpunk is a minimalist, offline-first terminal web browser designed to render simplified versions of web pages for low-bandwidth or disconnected environments.
-- [brewsh](https://www.brow.sh/) - Browsh is a modern, text-based terminal browser that renders graphical web content—including HTML5, CSS, and JavaScript—as text in real time, allowing full browsing of modern websites directly in the terminal.
+- [browsh](https://www.brow.sh/) - Browsh is a modern, text-based terminal browser that renders graphical web content—including HTML5, CSS, and JavaScript—as text in real time, allowing full browsing of modern websites directly in the terminal.
