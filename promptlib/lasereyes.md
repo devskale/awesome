@@ -1,0 +1,3 @@
+- Use the computer's front-facing camera
+- Use `mediapipe` lib to capture facial landmarks
+- Use `threejs`  to apply a LASER EYE effect to the face captured by the camera based on the real-time 3D landmark information provided by `mediapipe`
