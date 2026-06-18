@@ -22,6 +22,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [Prompt Checker](https://promptchecker.withcascade.ai/)
 - [Latitude](https://latitude.so/)
 - [Adaline](https://app.adaline.ai/) - platform to iterate, evaluate, deploy, and monitor LLMs
+- [Future AGI](https://github.com/future-agi/future-agi) - Open-source platform for prompt evaluation, optimization, and guardrails across LLM and agent apps, with 70+ eval metrics and LLM-as-judge.
 
 ## 💻 IDEs
 
