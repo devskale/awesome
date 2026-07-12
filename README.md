@@ -6,6 +6,20 @@ This list is maintained by skale.dev.
 
 A collection of awesome curated lists of development and coding related tools and packages.
 
+## Table of Contents
+
+- [Local Resources](#-local-resources)
+- [Prompting](#-prompting)
+- [IDEs](#-ides)
+- [AI Code Builders](#-ai-code-builders)
+- [Web Animations](#-web-animations)
+- [Video Generation](#-video-generation)
+- [Image Generation](#-image-generation)
+- [Generate PRDs](#-generate-prds)
+- [Agent Rules](#-agent-rules)
+- [MCP Servers](#-mcp-servers)
+- [TUI Browsing](#-tui-browsing)
+
 # Links
 
 ## 📂 Local Resources
@@ -18,29 +32,27 @@ A collection of awesome curated lists of development and coding related tools an
 - [Repo Promptlib](./promptlib) - A library of prompt examples for various AI models.
 - [CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - Plinius the Liberators System Prompts, offering a wide range of system prompts.
 - [UI Prompt Explorer](https://uiprompt.art/) - An interactive platform to explore and experiment with UI prompts.
-- [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaksg) - A collection of leaked system prompts for analysis.
-- [Prompt Checker](https://promptchecker.withcascade.ai/)
-- [Latitude](https://latitude.so/)
+- [Prompt Leaks](https://github.com/asgeirtj/system_prompts_leaks) - A collection of leaked system prompts for analysis.
+- [Prompt Checker](https://promptchecker.withcascade.ai/) - A tool to check and validate your prompts.
+- [Latitude](https://latitude.so/) - A prompt management platform to iterate, evaluate, and deploy LLM prompts.
 - [Adaline](https://app.adaline.ai/) - platform to iterate, evaluate, deploy, and monitor LLMs
 
 ## 💻 IDEs
 
 - [VSCode](https://code.visualstudio.com/) - VS Code with Copilot
-- [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code.
+- [Cursor](https://www.cursor.com/) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. The best tool for coders (not ideal for non-coders), can assist, autocomplete, refactor, and build entire modules or projects.
 - [trae](https://www.trae.ai/) — Trae is an adaptive AI IDE that transforms how you work, collaborating with you to run faster.
-- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium.
-- [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation.
+- [Windsurf](https://windsurf.com) — An IDE with chat, edit, generate and debug features. Forked from VSCodium, so the interface is similar to VS Code. Formerly known as Codeium. Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
+- [PearAI](https://trypear.ai/) — An open source fork of VS Code with chat and inline code generation. Entered YC, an alternative to Cursor.
 - [Melty](https://melty.sh/) — An open source fork of VS Code with built in chat, change previews, and ability to write commits with AI. Currently only source code is available.
-- [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments.
-- [Mutable](https://github.com/mutableai/monitors4codegen) — Web-based IDE, integrated with a chatbot and GitHub.
-- [CodeStory](https://codestory.ai/) — An IDE with chat, code explanations, auto-generated commits and PR summaries. Forked from VSCodium.
+- [Replit](https://replit.com/) — Web-based IDE with cloud developer environments, code completion, chat, a software development agent and deployments. Considered the most advanced AI agent for coding, with Agent or Assistant modes — a true full-stack app generator with its own server, database, and hosting.
 - [UI Pilot](https://ui-pilot.com/) — Chat-based AI code editor that creates forms using Material UI, using GPT-4.
 - [GitWit](https://gitwit.dev/) — Web-based editor for building ReactJS applications with AI.
 - [Theia IDE](https://theia-ide.org/#theiaide) — An extensible open-source IDE (web and desktop) providing AI-powered features like chat, code completion, terminal assistance and custom agents using arbitrary LLMs. Built on [Theia AI](https://eclipsesource.com/blogs/2024/10/07/introducing-theia-ai/), a platform designed to enable the creation of custom, AI-powered tools and IDEs.
 - [OneCompiler](https://onecompiler.com/) — A free AI Powered online compiler supporting over 70 languages, including Java, Python, MySQL, C++, and HTML, for writing, running, and sharing code.
 - [Zed](https://zed.dev/) - A high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [Void](https://voideditor.com/) - Open source Cursor alternative
-- [Athas](https://athas.dev/) -
+- [Athas](https://athas.dev/) — A lightweight, fast code editor built for modern developers with AI assistance, Git integration, and keyboard-first workflows.
 - [Kilo](https://kilocode.ai) - Kilo combines all features of Cline, Roo, and our own additions
 - [Kiro](https://kiro.dev) - agentic IDE that works alongside you from prototype to production
 
@@ -61,19 +73,18 @@ A collection of awesome curated lists of development and coding related tools an
 - [Continue dot Dev](https://www.continue.dev) - An open-source alternative to Cursor, great for those who want to build their own AI IDE.
 - [Create_xyz](https://create.xyz) - Can clone a product from a provided link, has connections to databases like The Movie DB and HackerNews, and supports authentication with one prompt. Good for creating functioning products with minimal prompts.
 - [Creatr](https://getcreatr.com/) - An AI tool for creating unique content.
-- [Cursor](https://www.cursor.com) - The best tool for coders (not ideal for non-coders), can assist, autocomplete, refactor, and build entire modules or projects. Demonstrated migrating from Tailwind v3 to v4.
 - [Databutton](https://www.databutton.com) - From Norway, backed by VCs, offers a unique approach different from most players, and works great for true non-coders.
 - [DeepSite](https://huggingface.co/spaces/enzostvs/deepsite) - A Hugging Face space for deep learning applications.
-- [Devin](https://www.cognition-labs.com/devin) - Targets the corporate world, acts as a junior dev in a team, sends pull requests, and works alongside teams. Not as expensive anymore but may struggle with messy repositories.
+- [Devin](https://devin.ai) - Targets the corporate world, acts as a junior dev in a team, sends pull requests, and works alongside teams. Not as expensive anymore but may struggle with messy repositories.
 - [Emergent.sh](https://emergent.sh) - An agentic vibe coding tool that can handle entire apps with frontend and backend. It works fast, feels like a CTO or tech co-founder, and features multi-agent capabilities (e.g., coding agent, testing agent).
 - [FactoryAI](https://www.factory.ai) - An advanced AI coding tool that generates complex apps and documentation, works well with large existing projects, has access to web search, MCPs, can run code on a local machine, and has an excellent UX. Best for coders.
 - [Fronty](https://fronty.com/) - Convert image to HTML CSS
 - [GitHub Copilot](https://github.com/features/copilot) - The original AI coding tool (started in 2020), can generate code, handle large codebases, merge PRs, fix bugs, search code, supports agent mode, and is now open-sourced.
 - [GitHub Spark](https://github.com/spark) - Works well for small or demo apps, still behind a waitlist. _(Note: Linked to a GitHub subpath, assuming it’s a GitHub product.)_
-- [Grok Studio](https://grok.x.ai) - A favorite for playing with code, suggested for learning coding, especially for vibe coders. _(Note: As a product from xAI, linked to the official Grok page, assuming Grok Studio is an extension or feature.)_
-- [HeroUI](https://www.heroui.com/)
+- [Grok](https://grok.com) - An AI assistant built by xAI. Can write and run code, chat, create images, and get real-time answers from the web and X. A favorite for playing with code and learning coding.
+- [HeroUI](https://www.heroui.com/) - Beautiful, accessible React UI components built on React Aria and Tailwind CSS. The modern alternative to MUI, Chakra UI, and shadcn/ui.
 - [HeybossAI](https://www.heyboss.ai) - The most creative AI coding tool on the market, capable of building production-grade apps with backend and database. Works great for non-coders and produces impressive design outputs.
-- [IDX](https://idx.google.com) - now firebase, A free alternative to Cursor, can build mobile apps, and uses Gemini.
+- [Firebase Studio](https://firebase.studio) (formerly IDX) - A free alternative to Cursor, can build mobile apps, and uses Gemini.
 - [jDoodle](https://www.jdoodle.ai/) - An online compiler and AI tool for coding.
 - [JulesGoogle](https://jules.google/) - Jules by Google
 - [Kombai](https://kombai.com) - Input your design files. Get high-quality HTML, CSS or React code
@@ -82,34 +93,28 @@ A collection of awesome curated lists of development and coding related tools an
 - [Magic Patterns](https://www.magicpatterns.com/) - A tool for generating creative patterns using AI.
 - [MarsX](https://www.marsx.dev) - A mix of AI, no-code, and high-code, designed as a "SaaS builder" rather than a website builder. Used to build products like @seobotai, @listingbott, and @indexrusher.
 - [mocha](https://getmocha.com/) - Designed for non-coders, builds full-stack apps from prompts with complete features (auth, database, hosting, emails). Ideal for non-technical users.
-- [Pear AI](https://www.pear.ai) - Entered YC, had drama around forking a GitHub repo, and is an alternative to Cursor.
 - [Polymet](https://www.polymet.ai/) - AI Product Designer at your service.
 - [Qodo](https://www.qodo.ai) - For coders, can write tests, refactor, and generate code, supporting all LLMs, including DeepSeek.
-- [Replit AI](https://replit.com) - Considered the most advanced AI agent for coding, with Agent or Assistant modes. A true full-stack app generator with its own server, database, and hosting.
-- [Replit](https://replit.com/) - An online IDE for collaborative coding and AI projects.
 - [Rork_app](https://www.rork.app) - A text-to-app AI agent that builds mobile apps and publishes directly on TestFlight. Perfect for non-coders building mobile apps.
-- [Same](https://same.new/)
+- [Same](https://same.new/) - Clone any website's UI into a promptable codebase; turn a design or live site into production-ready code.
 - [SiteBrew](https://www.sitebrew.ai/create) - Site Generator
 - [Softgen](https://www.softgen.ai) - Works well for both coders and non-coders, can fix its own bugs, and can host web apps.
 - [Stitch (Google)](https://stitch.withgoogle.com/) - Best for prototyping; transforms ideas into UI designs for mobile and web; fast and suitable for founders, designers, and non-coders.
 - [Tempo Labs](https://www.tempo.new) - Generates full-stack apps using text or image prompts, starts by creating architecture and diagrams, and offers an impressive AI coding UX.
-- [Trae](https://www.trae.ai) - Goes from zero to one via prompting, free, from ByteDance, can build full-stack web apps, and is designed for coders. _(Note: Linked to ByteDance’s main site with a subpath for Trae, as ByteDance products often follow this structure.)_
 - [UIzard](https://uizard.io/) - Visualize, communicate, and iterate on wireframes and prototypes in minutes. Empower your product team with AI!
 - [v0](https://v0.dev) - Best for making well-designed web pages or UIs, integrates with Figma, allows element-by-element editing, but not ideal for full-stack apps.
 - [Webdraw](https://www.webdraw.app) - Best for people with zero coding experience, features a genius UX, is free, and turns sketches into web apps.
-- [Windsurf](https://www.windsurf.ai) - Works well for advanced apps, acts as a true agent, can use web search, has memory, and is best for lazy coders.
 - [Wrapifai](https://app.wrapifai.com) - Best for form-based apps like calculators and AI generators. Ideal for building mini tools for SEO or lead magnets, 100% no-code, and super easy to use.
-- [Rocket](https://www.rocket.new/) - rocket new
-- [new website](https://new.website)- website from a sentence
+- [Rocket](https://www.rocket.new/) - You describe the problem. Rocket researches the market, recommends what to build, generates production-ready code, and tracks your competitors.
 - [orchid](https://www.orchids.app/) - make beautiful website that do not look ai coded
 
 ## 🎨 Web Animations
 
-- [FramerMotion](https://motion.dev/) - Eine leistungsstarke React-Bibliothek für flüssige, deklarative UI-Animationen und Interaktionen im Web
-- [LottieFiles](https://lottiefiles.com/) - Eine Plattform und ein Dateiformat für leichtgewichtige, hochwertige Vektoranimationen, die als JSON exportiert und einfach in Websites und Apps eingebunden werden können
-- [RiveApp](https://rive.app/) - Ein Tool zur Erstellung interaktiver, zustandsbasierter Vektoranimationen, die sich in Echtzeit in Web, Apps und Spiele integrieren lassen
-- [GSAP](https://gsap.com/) - Eine extrem leistungsstarke, framework-unabhängige JavaScript-Bibliothek zur Erstellung hochperformanter, präziser Animationen für alles, was JavaScript im Web steuern kann – von UI-Elementen über SVG bis zu komplexen Sequenzen
-- [Spring.js](https://www.react-spring.dev/) - Eine flexible Animationsbibliothek für React, die natürliche, federbasierte Animationen über deklarative Hooks ermöglicht
+- [FramerMotion](https://motion.dev/) - A powerful React library for smooth, declarative UI animations and interactions on the web
+- [LottieFiles](https://lottiefiles.com/) - A platform and file format for lightweight, high-quality vector animations exported as JSON and easily embedded in websites and apps
+- [RiveApp](https://rive.app/) - A tool for creating interactive, state-based vector animations that integrate in real time into web, apps, and games
+- [GSAP](https://gsap.com/) - An extremely powerful, framework-agnostic JavaScript library for creating high-performance, precise animations for anything JavaScript can control on the web — from UI elements to SVG to complex sequences
+- [React Spring](https://www.react-spring.dev/) - A flexible animation library for React that enables natural, physics-based spring animations via declarative hooks
 
 ## 🎥 Video Generation
 
@@ -118,7 +123,7 @@ A collection of awesome curated lists of development and coding related tools an
 - [Veo](https://deepmind.google/models/veo/) - Google Veo
 - [Hunyuan](https://video.hunyuan.tencent.com/) - Tencent Video
 - [WAN](https://wan.video/) - alibaba Video
-- [hailuoai](https://hailuoai.video/)
+- [hailuoai](https://hailuoai.video/) - MiniMax's AI video generation model.
 
 ## 🖼️ Image Generation
 
@@ -130,17 +135,14 @@ A collection of awesome curated lists of development and coding related tools an
 ## 📋 Generate PRDs
 
 - [From021.io](https://from021.io/) - Define your products right the first time in minutes. No coding yet, no endless tweaks later. Clear, actionable specs and documentation from day one.
-- [usePRD](https://useprd.com/)
+- [usePRD](https://useprd.com/) - Generate product requirement documents with AI.
 
 ## 📜 Agent Rules
 
 - [Awesome Cursor Rules](https://github.com/PatrickJS/awesome-cursorrules) - Github Repo with a curated list of cursor rules.
-- [cursor.directory](https://cursor.directory/) - Explore and generate custom cursor rules.
+- [cursor.directory](https://cursor.directory/) - Explore and generate custom cursor rules. A comprehensive directory for cursor rules.
 - [hub.continue.dev](https://hub.continue.dev/explore/rules) - A hub for exploring various cursor rules.
 - [traerules.net](https://traerules.net/) - A platform for sharing and discovering cursor rules.
-- [traerules.io](https://traerules.io/) - An online directory for cursor rules.
-- [playbooks.com](https://playbooks.com/rules/builder) - Build your own cursor rules with ease.
-- [cursor.directory](https://cursor.directory/) - A comprehensive directory for cursor rules.
 - [Inbox Zeros Cursor Rules](https://github.com/elie222/inbox-zero/tree/main/.cursor/rules) - A collection of cursor rules for achieving inbox zero.
 - [dotcursorrules](https://dotcursorrules.com/) - A platform for creating and sharing cursor rules.
 - [codeguide.dev](https://www.codeguide.dev/) - A guide for coding with cursor rules.
@@ -151,9 +153,9 @@ A collection of awesome curated lists of development and coding related tools an
 ## 🖥️ MCP Servers
 
 - [GitHub MCP](https://github.com/apappascs/mcp-servers-hub) GitHub repo with MCP Servers Hub List
-- [mcpmarket.com](https://mcpmarket.com/server/hub)
-- [hub.continue.dev](https://hub.continue.dev/explore/mcp)
-- [mcp.so](https://mcp.so/server/mcp-servers-hub) - MCP Servers Hub
+- [mcpmarket.com](https://mcpmarket.com/server/hub) - A marketplace for discovering and installing MCP servers.
+- [hub.continue.dev](https://hub.continue.dev/explore/mcp) - A hub for exploring various MCP servers.
+- [mcp.so](https://mcp.so) - MCP Servers Hub, a directory of MCP servers
 - [mcpjam](https://github.com/MCPJam/inspector) - mcp test server
 
 ## 🌐 TUI Browsing
